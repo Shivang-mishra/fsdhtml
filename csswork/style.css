@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+div{
+    background-color: aqua;
+}
+.container{
+    background-color:bisque ;
+    height:400px;
+    border: 2px solid red;
+
+}
+/* .child1{
+    background-color: brown;
+    color: white;
+    height:100px ;
+    width: 300px dotted blue;
+    border: 2px solid blue;
+    margin-left: 100px;
+    padding: 100px 50px 40px;
+    box-sizing: border-box;
+
+} */
+ div p{background-color: yellow;
+ }
